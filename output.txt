@@ -1,0 +1,3 @@
+Name,Age,Location
+John Doe,90,"Tamale, Ghan"
+John Pork,12,"Accra, Ghana"
